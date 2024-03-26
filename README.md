@@ -1,6 +1,10 @@
+
 <h1 align="center">Hi 👋, This is Somanath Shyamsundar</h1>
 <h3 align="center">A passionate Bioinformatician from India's Best-kept-secret!!!</h3>
-<img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/6-09-2015/Zuvw8z.gif">
+<div>
+  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/dJGldn72f6pR6/giphy.gif">
+</div>
+
 
 
 - 🔭 I’m currently working on [PyLig](https://github.com/Somanath-SS/Inter_pred)
